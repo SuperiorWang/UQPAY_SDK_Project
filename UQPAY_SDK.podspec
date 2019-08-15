@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
   spec.homepage     = "https://github.com/SuperiorWang/UQPAY_SDK_Project"
-  spec.source       = { :git => "https://github.com/SuperiorWang/UQPAY_SDK_Project.git", :tag => "v1.0.0" }
+  spec.source       = { :git => "https://github.com/SuperiorWang/UQPAY_SDK_Project.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
