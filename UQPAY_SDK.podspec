@@ -42,7 +42,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
-  s.requires_arc   = true
+  spec.requires_arc   = true
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  Specify the authors of the library, with email addresses. Email addresses
